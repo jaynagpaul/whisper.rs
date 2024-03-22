@@ -1,2 +1,2 @@
-# llama.rs
-Inference for LLaMa in Rust
+# whisper.rs
+Inference for OpenAI's Whisper in Rust
